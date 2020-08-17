@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer,Learner!
+## I'm a Developer,Learner,Writer!
 
 - 🔭 I’m currently working as a Research Intern
 - 🌱 I’m currently learning everything 🤣
