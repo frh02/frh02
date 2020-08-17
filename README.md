@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [K-Nearest Neighbor and Curse of Dimensionality](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [K-Nearest Neighbor and Curse of Dimensionality](https://medium.com/@farhanrahman02/k-nearest-neighbors-and-the-curse-of-dimensionality-7d64634015d9?source=friends_link&sk=5d05239d81628fbb8aa7147686ded63e)
+- [Logistic Regression for Image Classification](https://medium.com/swlh/logistic-regression-for-image-classification-e15d0ae59ce9?source=friends_link&sk=30e51e9854137c855c1c79be73b9fb16)
+- [Model Order Selection for Neural Data](https://medium.com/swlh/logistic-regression-for-image-classification-e15d0ae59ce9?source=friends_link&sk=30e51e9854137c855c1c79be73b9fb16)
+- [Data Beyond Perception](https://medium.com/swlh/logistic-regression-for-image-classification-e15d0ae59ce9?source=friends_link&sk=30e51e9854137c855c1c79be73b9fb16)
+- [How Ontario’s mobility is shaping up since reopening](https://medium.com/swlh/how-ontarios-mobility-is-shaping-up-since-reopening-3b9625b55a13?source=friends_link&sk=22bfde72557605227e032953374274e4)
 <!-- BLOG-POST-LIST:END -->
 
 
