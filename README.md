@@ -4,9 +4,9 @@
 
 ## I'm a Developer,Learner!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working as a Research Intern
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to enhance skills in Machine Learning 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
