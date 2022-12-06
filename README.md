@@ -6,7 +6,7 @@ I am a graduate student at [University of Toronto](https://www.utoronto.ca/),Can
 - 🔭 I’m currently working as a Research Intern
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to enhance skills in Machine Learning 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play basketball
 
 **My Reseach Interest**:
