@@ -51,8 +51,8 @@ Currently based in **Toronto, Canada**, I have industry experience working acros
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [K-Nearest Neighbor and Curse of Dimensionality](https://medium.com/@farhanrahman02/k-nearest-neighbors-and-the-curse-of-dimensionality-7d64634015d9)
-- [Logistic Regression for Image Classification](https://medium.com/swlh/logistic-regression-for-image-classification-e15d0ae59ce9)
+- [AI Agents That Edit Your Blogs and Ping Your Team: LangGraph + Slack in Action](https://medium.com/data-science/ai-agents-that-edit-your-blogs-and-ping-your-team-langgraph-slack-in-action-930725910dba)
+- [Configuring your CUDA drivers for custom object detection(Linux)](https://medium.com/swlh/configuring-your-cuda-drivers-for-custom-object-detection-linux-5746efdb9cb0)
 - [Model Order Selection for Neural Data](https://medium.com/swlh/logistic-regression-for-image-classification-e15d0ae59ce9)
 - [Data Beyond Perception](https://medium.com/swlh/logistic-regression-for-image-classification-e15d0ae59ce9)
 - [How Ontario’s Mobility is Shaping Up Since Reopening](https://medium.com/swlh/how-ontarios-mobility-is-shaping-up-since-reopening-3b9625b55a13)
