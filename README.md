@@ -188,18 +188,27 @@ class FarhanRahman:
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=frh02&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" alt="Farhan's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frh02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<!-- Row 1: Stats + Top Langs -->
+<a href="https://github.com/frh02">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=frh02&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+</a>
+<a href="https://github.com/frh02">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frh02&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frh02&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=ffffff&sideLabels=a78bfa" alt="GitHub Streak" />
+<br/>
+
+<!-- Row 2: Streak (git.io mirror — more reliable than herokuapp) -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=frh02&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8888aa&stroke=302b63" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<!-- Row 3: Activity graph -->
+<a href="https://github.com/frh02">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frh02&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=302b63" alt="Contribution Graph" />
+</a>
 
 <br/>
 
